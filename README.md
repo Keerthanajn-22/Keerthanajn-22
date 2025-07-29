@@ -1,4 +1,5 @@
 ## Hi there 👋
+hii i am keerthana currently i'm studying mca
 
 <!--
 **Keerthanajn-22/Keerthanajn-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
